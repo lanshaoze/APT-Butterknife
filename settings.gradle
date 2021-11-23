@@ -1,0 +1,5 @@
+rootProject.name = "RouterDemo"
+include ':app'
+include ':apt_processor'
+include ':apt_annotation'
+include ':apt-library'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RouterDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/RouterDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RouterDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RouterDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apt-library/RouterDemo.apt-library.iml" filepath="$PROJECT_DIR$/.idea/modules/apt-library/RouterDemo.apt-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apt_annotation/RouterDemo.apt_annotation.iml" filepath="$PROJECT_DIR$/.idea/modules/apt_annotation/RouterDemo.apt_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/router_compiler/RouterDemo.apt_processor.iml" filepath="$PROJECT_DIR$/.idea/modules/router_compiler/RouterDemo.apt_processor.iml" />
+    </modules>
+  </component>
+</project>
